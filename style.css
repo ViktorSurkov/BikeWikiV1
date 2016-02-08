@@ -1,0 +1,48 @@
+ body {
+    font: 10pt Arial, Helvetica, sans-serif; 
+    background: #C0C0C0; 
+    margin: 0; 
+   }
+ h2 {
+    font-size: 11pt; 
+    color: #000000; 
+    margin-bottom: 0; 
+   }
+   #container {
+    width: 900px; 
+    margin: 0 auto; 
+   }
+   #header {
+    background: #778899; 
+    font-size: 20pt; 
+    color: #000000; 
+    padding: 15px; 
+   }
+   #content {
+    margin-right: 140px; 
+    padding: 10px; 
+    background: #A9A9A9; 
+   }
+   #content p {
+    margin-top: 0.3em /* Отступ сверху */
+   }
+   #sidebar {
+    float: right; 
+    width: 120px; 
+    padding: 10px; 
+    background: #DCDCDC; 
+   }
+   #sidebar a {
+    color: #FFFFFF; 
+   }
+   #footer {
+    background: #B0C4DE; 
+    color: #000000; 
+    padding: 5px; 
+    margin-top: 15px; 
+   }
+   .round {
+    border-radius: 10px; 
+    border: 0px solid green; 
+    box-shadow: 0 0 7px #666; 
+   }
